@@ -8,4 +8,7 @@ def row_sum_odd_numbers(n):
     return result
 
 
-print(row_sum_odd_numbers(3))
+print(row_sum_odd_numbers(5))
+
+# Or if you're smart just make 3 the exponent of n
+print(5**3)
