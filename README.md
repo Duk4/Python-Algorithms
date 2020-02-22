@@ -5,3 +5,4 @@ Every challenge has its own readme file with description of a problem
 ---
 
 * [Sum of odd numbers](https://github.com/Duk4/Algorithms/tree/master/Sum-of-odd-numbers)
+* [Opposite number](https://github.com/Duk4/Algorithms/tree/master/Opposite-number)
