@@ -13,3 +13,4 @@ Every challenge has its own readme file with description of a problem
 * [Vowel Count](https://github.com/Duk4/Python-Algorithms/tree/master/Vowel-Count)
 * [Friend or Foe?](https://github.com/Duk4/Python-Algorithms/tree/master/Friend-or-Foe)
 * [A Needle in the Haystack](https://github.com/Duk4/Python-Algorithms/tree/master/A-Needle-in-the-Haystack)
+* [Who likes it?](https://github.com/Duk4/Python-Algorithms/tree/master/Who-likes-it)
